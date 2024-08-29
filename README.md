@@ -87,8 +87,8 @@ All training and testing base on same 1080Ti.
 
 - In the ablation experiment on SMIC, the effectiveness of weighted-Categorical Cross-Entropy and New Channel
   Attention was tested and evaluated, respectively. The basic architecture, 3DCNN+GRU, utilizes Categorical Cross-Entropy (CCE) as the loss function.
-  <img src="https://github.com/dannyFan-0201/ICIP_2024/blob/main/img/ab.PNG"
-  width="500" height="100">
+  
+  <img src="https://github.com/dannyFan-0201/ICIP_2024/blob/main/img/ab.PNG" width="500" height="100">
 
 ---
 ## Contact
