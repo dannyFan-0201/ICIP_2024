@@ -38,7 +38,7 @@ or see the requirements.txt
 
 ## Set dataset path
 
-Edit in Dual-Branch 3DCNN+AU (set path in config)
+Edit in ME_model.py(set path in config)
 
 ```python
 negativepath = './data/negative/negative_video'
